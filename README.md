@@ -67,7 +67,7 @@ uvicorn app.main:app --host 0.0.0.0 --port 8000
 - `REQUEST_TIMEOUT_SECONDS` (default `10`)
 - `MAX_RESPONSE_BYTES` (default `1048576`)
 
-## Replit setup
+## Setup
 
 - Run command: `uvicorn app.main:app --host 0.0.0.0 --port 8000`
 - Optional secrets:
